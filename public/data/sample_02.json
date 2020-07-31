@@ -1,0 +1,89 @@
+{
+  "subject": "graph_0_3",
+  "resource_original_name": "send_date",
+  "data_type": "timestamp",
+  "data_count": 1821,
+  "data_unique_count": 20,
+  "data": [
+      {
+          "x_axis_label_short": "2012-07-26",
+          "y": 6
+      },
+      {
+          "x_axis_label_short": "2012-07-27",
+          "y": 6
+      },
+      {
+          "x_axis_label_short": "2012-07-28",
+          "y": 6
+      },
+      {
+          "x_axis_label_short": "2012-07-29",
+          "y": 10
+      },
+      {
+          "x_axis_label_short": "2012-07-30",
+          "y": 6
+      },
+      {
+          "x_axis_label_short": "2012-10-19",
+          "y": 34
+      },
+      {
+          "x_axis_label_short": "2012-10-20",
+          "y": 88
+      },
+      {
+          "x_axis_label_short": "2012-10-21",
+          "y": 76
+      },
+      {
+          "x_axis_label_short": "2012-10-22",
+          "y": 84
+      },
+      {
+          "x_axis_label_short": "2012-10-23",
+          "y": 34
+      },
+      {
+          "x_axis_label_short": "2013-01-12",
+          "y": 72
+      },
+      {
+          "x_axis_label_short": "2013-01-13",
+          "y": 155
+      },
+      {
+          "x_axis_label_short": "2013-01-14",
+          "y": 169
+      },
+      {
+          "x_axis_label_short": "2013-01-15",
+          "y": 165
+      },
+      {
+          "x_axis_label_short": "2013-01-16",
+          "y": 60
+      },
+      {
+          "x_axis_label_short": "2013-04-07",
+          "y": 126
+      },
+      {
+          "x_axis_label_short": "2013-04-08",
+          "y": 209
+      },
+      {
+          "x_axis_label_short": "2013-04-09",
+          "y": 204
+      },
+      {
+          "x_axis_label_short": "2013-04-10",
+          "y": 210
+      },
+      {
+          "x_axis_label_short": "2013-04-11",
+          "y": 101
+      }
+  ]
+}
